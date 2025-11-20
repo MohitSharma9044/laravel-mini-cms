@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.btn {
+  @apply px-2 py-1 border rounded hover:bg-gray-200 text-sm;
+}
